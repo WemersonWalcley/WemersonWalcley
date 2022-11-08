@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<!--
-**WemersonWalcley/WemersonWalcley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java/Angular/React applications
+- 🌱 I’m currently learning RabbitMQ, Apache Kafka and AWS
+- 😄 Pronouns: He/him
 
 <div align="center">
   <a href="https://github.com/WemersonWalcley">
