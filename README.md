@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Java/Angular/React applications
-- 🌱 I’m currently learning Linux - Ubuntu, Docker, kubernetes and AWS
+- 🌱 I’m currently learning Linux - Ubuntu, Docker, kubernetes, AWS and RabbitMQ
 - 😄 Pronouns: He/him
 
 <div align="center">
